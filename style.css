@@ -1,0 +1,179 @@
+/* Estilos index */
+#contenedor {
+    width: 90%;
+    max-width: 1024px;
+}
+.background1{ 
+    background-color:black ;}
+.background2{background-color: #F5FCFF;}
+#banner{ background-image: url('https://www.e-spincorp.com/wp-content/uploads/2020/12/Reverse-engineering-3.jpg');
+background-size:cover;}
+
+#nombre{ color: rgb(0, 107, 194);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+    position: absolute;
+    width: 823px;
+    height: 85px;
+    left: 660px;
+    top: 552px;
+    line-height: 85px;
+
+    }
+    
+#icono1{color: white;
+    font-size: 20px;
+text-align: center;}        
+
+#links{color:aliceblue;
+    background-color: black;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: bold;
+    padding-left: 20px;}
+
+#espacio{
+    font-size: 300px;
+color:aliceblue}
+.Titulos{font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: #005677;
+    ;
+text-align: left;
+background-color: #C4C4C4;;}
+
+
+footer{background-color: black;
+    ;}
+
+.padding{
+        padding-left: 80px;
+        
+    }
+    /*Estilos sobre mi  */
+#seccion1{position: absolute;
+    width: 2396px;
+    height: 297px;
+    left: 0px;
+    top: 29px;
+}
+    #cuadro1{position: absolute;
+        width: 992px;
+        height: 295px;
+        left: 0px;
+        top: 0px;
+
+    
+
+background: #F5FCFF;
+}
+#subtitulo{
+    position: absolute;
+    left: 25%;
+    right: 17.44%;
+    top: -30.98%;
+    bottom: 32.2%;
+    
+    font-family: Parisienne;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 144px;
+    line-height: 196px;
+    
+    color: #000000;}
+#cuadro2{position: absolute;
+    width: 1600px;
+    height: 295px;
+    left: 992px;
+    top: 2px;
+    
+background: #F8F4FF;
+}
+#parrafo{
+    position: absolute;
+width: 1300px;
+height: 146px;
+left: 34px;
+top: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 40px;
+
+color: #000000;
+}
+#cuadro3{
+    position: absolute;
+width: 2582px;
+height: 89px;
+left: 0px;
+top: 326px;
+
+background: #B5E4FF;
+}
+#titulo{
+    
+position: absolute;
+position: absolute;
+width: 215px;
+height: 75px;
+left: 1102px;
+top: -60px;
+
+
+    font-size: 70px;
+    text-align: center;
+    font-family: Parisienne;
+}
+#cuadro4{
+    position: absolute;
+width: 861px;
+height: 352px;
+left: 0px;
+top: 415px;
+
+background: #E4EAEE;
+}
+#cuadro5{
+    
+    position: absolute;
+width: 861px;
+height: 352px;
+left: 861px;
+top: 415px;
+
+background: #FFEDED;
+}
+#cuadro6{
+    position: absolute;
+    width: 861px;
+    height: 352px;
+    left: 1722px;
+    top: 415px;
+    
+    background: #F4F9FF;
+}
+.textos{
+    position: absolute;
+width: 111px;
+height: 129px;
+left: 368px;
+top: 10px;
+
+font-family: Amatic SC;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 121px;
+}
+.foooter{
+    width: 2582px;
+height: 17px;
+left: 0px;
+top: 767px;
+background-color: black;
+}
